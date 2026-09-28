@@ -1,0 +1,16 @@
+# Git Commands
+# ============
+
+git config --global user.name "user_name" -> For adding user name
+git config --global user.email "mail_id" -> For adding mail id
+git list
+git init -> For initializing git repository
+# git status -> For listing untracked files
+# git add . -> For adding untracked files to staged area
+# git commit -m "message" -> For adding staged files into local repository
+git remote add origin "link" -> For connecting local repository with remote repository
+git branch -> Showing the current branch(default master/main)
+git push origin branch_name - -> For adding changes from local repository into remote
+git log -> For showing commit history
+git remote -v -> For showing the details of remote repository
+
